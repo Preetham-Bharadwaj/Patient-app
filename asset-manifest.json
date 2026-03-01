@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AWS-AI-For-Bharath/static/css/main.e6c13ad2.css",
+    "main.js": "/AWS-AI-For-Bharath/static/js/main.7293288a.js",
+    "static/js/453.12217f6e.chunk.js": "/AWS-AI-For-Bharath/static/js/453.12217f6e.chunk.js",
+    "index.html": "/AWS-AI-For-Bharath/index.html",
+    "main.e6c13ad2.css.map": "/AWS-AI-For-Bharath/static/css/main.e6c13ad2.css.map",
+    "main.7293288a.js.map": "/AWS-AI-For-Bharath/static/js/main.7293288a.js.map",
+    "453.12217f6e.chunk.js.map": "/AWS-AI-For-Bharath/static/js/453.12217f6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7293288a.js"
+  ]
+}
